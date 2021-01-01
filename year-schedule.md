@@ -1,5 +1,5 @@
 # 来年の今頃に向けて
-[https://gyazo.com/0a37de7530a77e2fc40c8e814c2d44e7]
+![太陽](assets/rising-sun.png)
 
 ## 考えること
 
